@@ -1,12 +1,12 @@
-# 📊 Sales Performance Power BI Dashboard
+#  Sales Performance Power BI Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **Power BI dashboard** analyzing sales, orders, customer behavior, and revenue performance. It provides insights into product categories, regional sales distribution, and profitability trends.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze total orders by category and subcategory
 * Compare revenue with target performance
@@ -16,7 +16,7 @@ This project presents an interactive **Power BI dashboard** analyzing sales, ord
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 * Power BI
 * Data Visualization
@@ -25,17 +25,18 @@ This project presents an interactive **Power BI dashboard** analyzing sales, ord
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-### 🔹 Sales Overview
+### 🔹 Summary Report
+![Summary](Summary%20report.jpeg)
 
-### 🔹 Profit & Orders Analysis
+### 🔹 Product Analysis
+![Product](Product%20report.jpeg)
 
-### 🔹 Customer Insights
+### 🔹 Customer Analysis
+![Customer](Customer%20report.jpeg)
 
----
-
-## 📊 Key Insights
+##  Key Insights
 
 * Accessories and Bikes contribute the highest orders
 * Revenue is slightly below target in some periods
@@ -45,13 +46,13 @@ This project presents an interactive **Power BI dashboard** analyzing sales, ord
 
 ---
 
-## 📥 Download Full Project
+##  Download Full Project
 
 👉 https://drive.google.com/file/d/1HsGdGi3yEjGG1mZhh4tEQsu6Txb1RQzQ/view
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
@@ -59,7 +60,7 @@ This project presents an interactive **Power BI dashboard** analyzing sales, ord
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sparsh Vats**
 Aspiring Data Analyst
